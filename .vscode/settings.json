@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d7d81f6c-ab08-4d71-b0b9-6316b930c23b/resourceGroups/Travel/providers/Microsoft.Web/sites/nodecbv",
+    "appService.deploySubpath": ""
+}
